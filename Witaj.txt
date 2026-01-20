@@ -1,1 +1,1 @@
-Print(Hello)
+Console.WriteLine("Witaj Świecie");
